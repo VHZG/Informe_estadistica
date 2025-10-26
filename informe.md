@@ -1,5 +1,7 @@
 ![Portada](image.png)
+
 ESTADÍSTICA
+
 Título: Análisis de la evolución de la esperanza de vida
 de hombres y mujeres en la Comunidad de Madrid
 ( 1986 – 2023 )
@@ -287,3 +289,4 @@ Referencias
 octubre de 2025, de
 
 https://datos.comunidad.madrid/catalogos/#/dataset/602026?view=info
+
