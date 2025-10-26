@@ -566,7 +566,7 @@ hSexo
 
 En la figura se muestra el porcentaje de datos por sexo, el número total de datos es 76. 
 
-****
+![imagen diagrama circular](informe%20github%20imagenes/diagrama%20circular.png)
 
 *Figura 1. Diagrama con el porcentaje de datos por grupo. *
 
@@ -574,7 +574,7 @@ En la figura se muestra el porcentaje de datos por sexo, el número total de dat
 
 En la figura 2 se muestran los porcentajes de esperanza de vida según su esperanza de vida baja \[73,77\), media \[77,82\) y alta \[82,88\) *Figura 2. Diagramas de la evolución de la esperanza de vida al nacer *
 
-* *
+![tres diagramas](informe%20github%20imagenes/tres%20diagramas.png)
 
 * *
 
@@ -588,7 +588,13 @@ En la figura 2 se muestran los porcentajes de esperanza de vida según su espera
 
 
 
-En la figura 3 se muestran los histogramas y diagramas de caja \(boxplot\) de la variable edad media, en el caso de los histogramas, agrupada en ocho intervalos, considerando la edad media total \(izquierda\), la edad media de las mujeres \(centro\) y la edad media de los hombres \(derechas\). En los diagramas aparecen tanto la mediana \(línea negra continua\), como la media \(línea roja discontinua\) *Figura 3. Histograma y diagramas de caja de la edad media según el sexo* Análisis de resultados 
+En la figura 3 se muestran los histogramas y diagramas de caja \(boxplot\) de la variable edad media, en el caso de los histogramas, agrupada en ocho intervalos, considerando la edad media total \(izquierda\), la edad media de las mujeres \(centro\) y la edad media de los hombres \(derechas\). En los diagramas aparecen tanto la mediana \(línea negra continua\), como la media \(línea roja discontinua\) 
+
+![histogramas y plotbox](informe%20github%20imagenes/histogramas%20y%20plotbox.png)
+
+*Figura 3. Histograma y diagramas de caja de la edad media según el sexo*
+
+Análisis de resultados 
 
 
 
