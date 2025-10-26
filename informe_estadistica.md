@@ -1,3 +1,5 @@
+![Portada](informe%20github%20imagenes/portada.png)
+
 **ESTADÍSTICA **
 
 
