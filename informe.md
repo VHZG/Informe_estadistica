@@ -2,15 +2,18 @@
 
 ESTADÍSTICA
 
-Título: Análisis de la evolución de la esperanza de vida
-de hombres y mujeres en la Comunidad de Madrid
-( 1986 – 2023 )
+Título: Análisis de la evolución de la esperanza de vida de hombres y mujeres en la Comunidad de Madrid ( 1986 – 2023 )
+
 Autor: Gerardo Antonio Valdez Hernández
+
 Profesor: José Ramón Hilera González
 
 Contenido
-Comunidad de Madrid (1986 – 2023) Título: Análisis de la evolución de la esperanza de vida de hombres y mujeres en la
+
+Título: Análisis de la evolución de la esperanza de vida de hombres y mujeres en la Comunidad de Madrid (1986 – 2023)
+
 Introducción
+
 Contexto
 Objetivo
 Alcance.......................................................................................................................
@@ -27,19 +30,23 @@ Conclusiones
 Referencias
 
 Introducción
+
 Contexto
+
 Se presentan los datos correspondientes a la evolución de la esperanza de vida de
 mujeres y hombres en la Comunidad de Madrid desde el año 1986 hasta el 2023.
 Estos datos están registrados en dos grupos diferentes diferenciados según el sexo,
 y muestran la edad media de esperanza de vida en cada una de las filas.
 
 Objetivo
+
 El objetivo de esta investigación es realizar un análisis estadístico descriptivo de la
 edad media de esperanza de vida de los residentes de la Comunidad de Madrid
 desde 1986 hasta 2023 , comprobando si existen diferencias entre hombres y
 mujeres
 
 Alcance.......................................................................................................................
+
 La investigación se limita a los residentes de la Comunidad de Madrid, utilizando
 como muestra los datos anuales de edad media de esperanza de vida registrados
 desde 1986 hasta 2023
@@ -60,7 +67,9 @@ empleó el paquete “ modeest ” y para el cálculo de los coeficientes de asi
 apuntamiento se utilizó el paquete “ e1071 ”.
 
 Diseño
+
 Variables Estadísticas:
+
 o Se ha analizado la variable estadística “Edad media”, que representa
 la esperanza de vida al nacer de hombres y mujeres obtenidas de los
 residentes de la Comunidad de Madrid desde 1986 hasta 2023, de tipo
@@ -84,8 +93,11 @@ cambiando el nombre de la columna “Concepto” => “Sexo”, y la columna
 “,” en los valore, así como la columna “Año” => “Ano”, “Tipo territorio” =>
 “Tipo_Territorio”, y “Evolución...” se ha modificado sin acento a “Evolucion...”
 para evitar conflictos con los caracteres especiales.
+
 Resultados
+
 Medidas estadísticas
+
 En la tabla 1 se muestran los resultados de las medidas estadísticas de
 centralización, dispersión, localización y formas más relevantes, para el total de
 datos de la muestra, y para los hombres y las mujeres
@@ -269,6 +281,7 @@ esperanza de vida es significativamente superior en mujeres y que los hombres
 presentan mayor dispersión, especialmente hacia los valores más bajos.
 
 Conclusiones
+
 Según los datos obtenidos y el análisis realizado, puede concluirse que en la
 Comunidad de Madrid entre 1986 y 2023, la evolución en la esperanza de vida
 difiere según el género, aunque la brecha se ha reducido con el tiempo. Las mujeres
@@ -285,8 +298,10 @@ Por lo tanto, se confirma que existen diferencias en la evolución de la esperan
 vida entre hombres y mujeres, aunque estas se han visto reducidas con el tiempo.
 
 Referencias
+
 - Catálogo de Datos Abiertos. (s/f). Comunidad.madrid. Recuperado el 26 de
 octubre de 2025, de
 
 https://datos.comunidad.madrid/catalogos/#/dataset/602026?view=info
+
 
