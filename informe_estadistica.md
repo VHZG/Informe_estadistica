@@ -638,11 +638,11 @@ Conclusiones
 
 
 
-Según los datos obtenidos y el análisis realizado, puede concluirse que en la Comunidad de Madrid entre 1986 y 2023, la evolución en la esperanza de vida difiere según el género, aunque la brecha se ha reducido con el tiempo. Las mujeres presentan una media y mediana superiores a las de los hombres, concentrándose la mayoría de sus valores en la categoría “Alta” lo que indica una mayor longevidad y menor dispersión en los datos. 
+Según los datos obtenidos y el análisis realizado, puede concluirse que en la Comunidad de Madrid entre 1986 y 2023, la evolución en la esperanza de vida difiere según el género. Las mujeres presentan una media y mediana superiores a las de los hombres, concentrándose la mayoría de sus valores en la categoría “Alta” lo que indica una mayor longevidad y menor dispersión en los datos. 
 
 Por otro lado, la evolución en la esperanza de vida de los hombres ha experimentado un aumento notable, con un mayor porcentaje de valores en las categorías “Media” y “Alta”, aunque todavía existe una proporción bastante significativa en la categoría “Baja”. 
 
-Por lo tanto, se confirma que existen diferencias en la evolución de la esperanza de vida entre hombres y mujeres, aunque estas se han visto reducidas con el tiempo. 
+Por lo tanto, se confirma que existen diferencias en la evolución de la esperanza de vida entre hombres y mujeres.
 
 
 
