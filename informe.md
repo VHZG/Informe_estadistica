@@ -1,3 +1,4 @@
+![Portada](image.png)
 ESTADÍSTICA
 Título: Análisis de la evolución de la esperanza de vida
 de hombres y mujeres en la Comunidad de Madrid
@@ -284,4 +285,5 @@ vida entre hombres y mujeres, aunque estas se han visto reducidas con el tiempo.
 Referencias
 - Catálogo de Datos Abiertos. (s/f). Comunidad.madrid. Recuperado el 26 de
 octubre de 2025, de
+
 https://datos.comunidad.madrid/catalogos/#/dataset/602026?view=info
