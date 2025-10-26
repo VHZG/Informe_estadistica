@@ -655,29 +655,3 @@ Referencias
 https://datos.comunidad.madrid/catalogos/\#/dataset/602026?view=info 10 
 
 
-
-
-# Document Outline
-
-+ Título: Análisis de la evolución de la esperanza de vida de hombres y mujeres en la Comunidad de Madrid \(1986 – 2023\) 
-+ Introducción  
-	+ Contexto 
-	+ Objetivo 
-	+ Alcance 
-
-+ Metodología  
-	+ Origen de los datos 
-	+ Herramientas 
-	+ Diseño 
-
-+ Resultados  
-	+ Medidas estadísticas 
-	+ Tablas de contingencia 
-	+ Diagramas 
-
-+ Análisis de resultados 
-+ Conclusiones 
-+ Referencias
-
-
-
